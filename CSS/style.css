@@ -203,6 +203,7 @@ body {
     background-image: url("haikei18.JPEG");
     background-size: 50%;
     background-repeat: repeat;
+    min-height: 300px; 
 }
 
 .works h3 {
@@ -297,7 +298,7 @@ body {
     .page-header {
         background-image: url("haikei19.JPEG");
         background-size: contain;
-        height: 120vh;
+        height: 300px;  
         max-width: 100%;
         background-position: center;
     }
