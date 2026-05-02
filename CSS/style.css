@@ -200,7 +200,7 @@ body {
     grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
     padding: 0 2rem;
-    background-image: url("haikei18.jpg");
+    background-image: url("haikei18.JPEG");
     background-size: 50%;
     background-repeat: repeat;
 }
@@ -295,7 +295,7 @@ body {
     }
 
     .page-header {
-        background-image: url("haikei19.jpg");
+        background-image: url("haikei19.JPEG");
         background-size: contain;
         height: 120vh;
         max-width: 100%;
