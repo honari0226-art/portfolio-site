@@ -203,7 +203,7 @@ body {
     background-image: url("haikei18.JPEG");
     background-size: 50%;
     background-repeat: repeat;
-    min-height: 300px; 
+    min-height: 300px;
 }
 
 .works h3 {
@@ -289,6 +289,10 @@ body {
     text-decoration: none;
 }
 
+.photo {
+    background-color: red;
+}
+
 /**デスクトップ版**/
 @media(min-width: 800px) {
     body {
@@ -298,7 +302,7 @@ body {
     .page-header {
         background-image: url("haikei19.JPEG");
         background-size: contain;
-        height: 300px;  
+        height: 300px;
         max-width: 100%;
         background-position: center;
     }
