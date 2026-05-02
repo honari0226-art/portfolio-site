@@ -359,7 +359,7 @@ body {
     /*前職*/
     .career {
         text-align: center;
-        margin: 5rem 0 2rem;
+        margin: 2rem 0 2rem;
         color: #492f1c;
     }
 
@@ -388,10 +388,6 @@ body {
 
     .jobitem th {
         padding: 3rem;
-    }
-
-    .career {
-        margin: 0;
     }
 
     /*制作物*/
