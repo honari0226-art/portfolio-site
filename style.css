@@ -200,7 +200,7 @@ body {
     grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
     padding: 0 2rem;
-    background-image: url("haikei18.JPEG");
+    background-image: url("../images/haikei18.JPEG");
     background-size: 50%;
     background-repeat: repeat;
     min-height: 300px;
@@ -289,9 +289,6 @@ body {
     text-decoration: none;
 }
 
-.photo {
-    background-color: red;
-}
 
 /**デスクトップ版**/
 @media(min-width: 800px) {
@@ -300,7 +297,7 @@ body {
     }
 
     .page-header {
-        background-image: url("haikei19.JPEG");
+        background-image: url(../images/haikei19.JPEG);
         background-size: contain;
         height: 300px;
         max-width: 100%;
